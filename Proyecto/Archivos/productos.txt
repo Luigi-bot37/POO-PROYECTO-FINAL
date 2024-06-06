@@ -1,0 +1,3 @@
+Trompo,trompo de plastico,10,50.00,001
+Tennis,Tennis negros NISSAN.,30,500.00,002
+Botas,negras de cuero,50,300.00,008
